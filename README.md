@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Facebook-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
-<h2 align="center">TECH STACK:</h2>
+<h2 align="center">⚡ TECH STACK ⚡</h2>
 <h3 align="center">Languages:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,java,php,cpp" />
@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,pug" />
 </p>
-<h3 align="center">Databases:</h3>
+<h3 align="center">Database:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-<h2 align="center">STATISTICS:</h3>
+<h2 align="center">🔥 STATISTICS 🔥</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexba2004&layout=compact&theme=github_dark" alt="Top Lenguajes" />
 </p>
