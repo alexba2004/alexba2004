@@ -1,4 +1,4 @@
-<h1 align="center">💗 Hi, I'm Jose Alejandro Briones Arroyo 💗</h1>
+<h1 align="center">🛡️ Hi, I'm Jose Alejandro Briones Arroyo 🛡️</h1>
 
 <h3 align="center">GET IN TOUCH!</h1>
   <p align="center">
