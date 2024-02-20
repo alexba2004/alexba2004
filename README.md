@@ -1,30 +1,55 @@
-# 💫 About Me:
-Hello! I'm Jose Alejandro Briones Arroyo, an enthusiastic 18-year-old programmer who is deeply immersed in the exciting world of computer science. Currently, I'm pursuing my dreams in the field of software development while studying at university.<br><br>Ever since I was a child, I've been intrigued by technology and how it can shape our lives. This curiosity led me to start exploring the world of programming while I was still in high school. Since then, I haven't looked back.<br><br>My primary focus in university is software development, and I've delved into a wide range of programming languages and technologies. I love tackling complex problems and crafting innovative solutions that make life easier for people. Programming is my means of making a difference in the world.<br><br>In my free time, I enjoy collaborating on open-source projects and learning from the developer community. I firmly believe in the power of sharing knowledge and experiences so that we can all grow together. GitHub has become my virtual home where I share my personal projects and contributions to open-source endeavors.<br><br>My goal is to continue learning and growing as a developer, taking on increasingly complex challenges, and contributing to the advancement of technology. I'm always open to new collaboration and learning opportunities, so please don't hesitate to reach out if you have an exciting idea or project in mind.<br><br>Thank you for visiting my GitHub profile! I hope you find something interesting among my projects and contributions. I'm always eager to connect with fellow programming enthusiasts, so feel free to follow me or get in touch. Together, we can build a future driven by innovation and technology.
+<h1 align="center">Jose Alejandro Briones Arroyo</h1>
+<h1 align="center">Backend Developer</h1>
+<h3 align="center">GET IN TOUCH!</h3>
 
+<p align="center">
+  <a href="mailto:j.alejandro.briones.a22@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Correo-FF3838?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexba2004" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/alexba2004" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/alexba2004/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-FF0074?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/alexba2004/" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alexba2004) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alexba2004) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexba2004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexba2004) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22530764/alejandro-ba) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alexba2004) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alexba2004) 
+<h3 align="center">LANGUAGES:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,java,php,cpp" />
+</p>
+<h3 align="center">BACKEND TECHNOLOGIES:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,sequelize" />
+</p>
+<h3 align="center">FRONTEND TECHNOLOGIES:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,pug" />
+</p>
+<h3 align="center">DATABASE TECHNOLOGIES:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+<h3 align="center">VERSION CONTROLLER:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alexba2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexba2004&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexba2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">STATISTICS:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexba2004&layout=compact&theme=github_dark" alt="Top Lenguajes" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alexba2004&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexba2004&show_icons=true&count_private=true&theme=github_dark" alt="Estadísticas de GitHub" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alexba2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=alexba2004&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexba2004&theme=github_dark" alt="Estadísticas de GitHub" />
+</p>
