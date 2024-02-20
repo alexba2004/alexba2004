@@ -1,6 +1,6 @@
 <h1 align="center">👾 Hi, I'm Jose Alejandro Briones Arroyo 👾</h1>
 
-<h3 align="center">GET IN TOUCH!</h1>
+<h3 align="center">Get in touch!</h1>
   <p align="center">
     <a href="mailto:j.alejandro.briones.a22@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-FF3838?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" /></a>
     <a href="https://www.linkedin.com/in/alexba2004" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
