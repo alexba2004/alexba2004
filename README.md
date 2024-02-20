@@ -1,5 +1,7 @@
-<h1 align="center">Backend Developer</h1>
-<h1 align="center">GET IN TOUCH!</h1>
+<h1 align="center">💫 ABOUT ME 💫</h1>
+<p>Driven by a profound passion for technology and its catalytic power, I excel in backend development, with an emphasis on Java and JavaScript. My journey as a self-taught developer is characterized by an unwavering commitment to surmounting obstacles, perpetually advancing my expertise. Leveraging frameworks such as Spring Boot and Express, I meticulously engineer streamlined solutions that significantly enrich project progression.</p>
+
+<h3 align="center">GET IN TOUCH!</h1>
 <p align="center">
   <a href="mailto:j.alejandro.briones.a22@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Correo-FF3838?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" />
