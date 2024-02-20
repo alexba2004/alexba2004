@@ -1,6 +1,6 @@
 <h1 align="center">👾 Hi, I'm Jose Alejandro Briones Arroyo 👾</h1>
 
-<h3>About Me</h3>
+<h3 align="center">About Me</h3>
 
 - Passionate about technology and its transformative potential.
 - Specialize in backend development with a focus on Java and JavaScript.
