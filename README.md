@@ -1,7 +1,3 @@
-<h1 align="center">Jose Alejandro Briones Arroyo</h1>
-<h1 align="center">Backend Developer</h1>
-<h3 align="center">GET IN TOUCH!</h3>
-
 <p align="center">
   <a href="mailto:j.alejandro.briones.a22@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Correo-FF3838?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" />
