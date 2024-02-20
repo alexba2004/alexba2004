@@ -1,5 +1,15 @@
 <h1 align="center">👾 Hi, I'm Jose Alejandro Briones Arroyo 👾</h1>
 
+<p>Passionate about technology and its 
+  transformative potential, I specialize in 
+  backend development with a focus on 
+  Java and JavaScript. I am self-taught 
+  and enjoy overcoming challenges to 
+  continually enhance my skills. I utilize 
+  frameworks like Spring Boot and 
+  Express to craft efficient solutions 
+  that positively contribute to project 
+  development.</p>
 <h3 align="center">Get in touch!</h1>
   <p align="center">
     <a href="mailto:j.alejandro.briones.a22@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-FF3838?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" /></a>
