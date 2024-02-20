@@ -17,24 +17,24 @@
     <img src="https://img.shields.io/badge/Facebook-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
-<h2 align="center">DEVELOPMENT STACK:</h2>
-<h3 align="center">LANGUAGES:</h3>
+<h2 align="center">TECH STACK:</h2>
+<h3 align="center">Languages:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,java,php,cpp" />
 </p>
-<h3 align="center">BACKEND TECHNOLOGIES:</h3>
+<h3 align="center">Backend:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,sequelize" />
 </p>
-<h3 align="center">FRONTEND TECHNOLOGIES:</h3>
+<h3 align="center">Frontend:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,pug" />
 </p>
-<h3 align="center">DATABASE TECHNOLOGIES:</h3>
+<h3 align="center">Databases:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
-<h3 align="center">VERSION CONTROLLER:</h3>
+<h3 align="center">Version Controller:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
