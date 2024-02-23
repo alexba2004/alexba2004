@@ -37,13 +37,13 @@
 
 <h2 align="center">🔥 STATISTICS 🔥</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexba2004&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexba2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexba2004&theme=radical&show_icons=true" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexba2004&theme=radical&show_icons=true&hide_border=true" alt="GitHub Statistics" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexba2004&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexba2004&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexba2004&theme=radical" alt="GitHub Statistics" />
