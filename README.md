@@ -16,11 +16,11 @@
 <h2 align="center">⚡ TECH STACK ⚡</h2>
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,php,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,cpp" />
 </p>
 <h3 align="center">Backend:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,spring,express,sequelize" />
+  <img src="https://skillicons.dev/icons?i=flask,spring,nodejs,express,sequelize" />
 </p>
 <h3 align="center">Frontend:</h3>
 <p align="center">
