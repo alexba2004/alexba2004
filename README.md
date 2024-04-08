@@ -16,7 +16,7 @@
 <h2 align="center">⚡ TECH STACK ⚡</h2>
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,dart" />
 </p>
 <h3 align="center">Backend:</h3>
 <p align="center">
@@ -24,8 +24,11 @@
 </p>
 <h3 align="center">Frontend:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,pug" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,pug,tailwind" />
 </p>
+<h3 align="center">Mobile:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
 <h3 align="center">Database:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
