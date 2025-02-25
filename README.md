@@ -16,26 +16,26 @@
 <h2 align="center">⚡ TECH STACK ⚡</h2>
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,dart" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,ts,py" />
 </p>
 <h3 align="center">Backend:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,spring,nodejs,express,sequelize" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 <h3 align="center">Frontend:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 <h3 align="center">Mobile:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter" />
 <h3 align="center">Database:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
-<h3 align="center">Version Controller:</h3>
+<h3 align="center">Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
 </p>
 
 <h2 align="center">🔥 STATISTICS 🔥</h3>
