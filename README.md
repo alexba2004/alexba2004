@@ -1,8 +1,8 @@
 <h1 align="center">👾 Hi, I'm Jose Alejandro Briones Arroyo 👾</h1>
 
-- 🚀 Full Stack Developer specialized in backend.
-- 💘 Passionate about technology and its transformative potential.
-- 💪 I am self-taught and enjoy overcoming challenges to continually enhance my skills.
+- 🚀 Full Stack Developer with a strong specialization in backend, leveraging Java to build scalable and robust solutions.
+- 🐧 Linux enthusiast, fascinated by its power, flexibility, and impact on software development.
+- 💡 Logical thinker who thrives on solving complex technical challenges and continuously improving through self-learning.
 
 <h3 align="center">Get in touch!</h3>
   <p align="center">
@@ -13,7 +13,7 @@
 <h2 align="center">⚡ TECH STACK ⚡</h2>
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,ts,py" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,ts,py,bash" />
 </p>
 <h3 align="center">Backend:</h3>
 <p align="center">
