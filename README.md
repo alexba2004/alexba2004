@@ -17,7 +17,7 @@
 </p>
 <h3 align="center">Backend:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,kubernetes" />
 </p>
 <h3 align="center">Frontend:</h3>
 <p align="center">
@@ -32,7 +32,7 @@
 </p>
 <h3 align="center">Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker" />
 </p>
 
 <h2 align="center">🔥 STATISTICS 🔥</h3>
