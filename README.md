@@ -8,9 +8,6 @@
   <p align="center">
     <a href="mailto:j.alejandro.briones.a22@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-FF3838?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico" /></a>
     <a href="https://www.linkedin.com/in/alexba2004" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/alexba2004" target="blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="https://www.instagram.com/alexba2004/" target="blank"><img src="https://img.shields.io/badge/Instagram-FF0074?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://www.facebook.com/alexba2004/" target="blank"><img src="https://img.shields.io/badge/Facebook-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   </p>
 
 <h2 align="center">⚡ TECH STACK ⚡</h2>
