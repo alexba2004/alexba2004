@@ -1,6 +1,6 @@
 <h1 align="center">👾 Hi, I'm Jose Alejandro Briones Arroyo 👾</h1>
 
-- 🚀 Full Stack Developer.
+- 🚀 Full Stack Developer specialized in backend.
 - 💘 Passionate about technology and its transformative potential.
 - 💪 I am self-taught and enjoy overcoming challenges to continually enhance my skills.
 
